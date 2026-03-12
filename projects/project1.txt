@@ -1,0 +1,3 @@
+všechny samosatné práce či úkoly:
+
+functions.cpp, kalkulacka.cpp, http_status.cpp, csgo_case_opening.cpp, ipv4_classifier.cpp, rpg_attack.cpp, shape.cpp, students.cpp, bank_transfer.cpp 
