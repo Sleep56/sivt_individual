@@ -1,0 +1,9 @@
+git status - řekne, na které větvi se nacházíte, které soubory jste připravili k commitu a které soubory zůstávají nesledované a nebyly commitovany.
+
+git add - Přesouvá změny z pracovního adresáře do testovací oblasti. To vám dává možnost připravit snímek před jeho odesláním do oficiální historie.
+
+git clone - Vytvoří kopii existujícího repozitáře Git. Klonování je pro vývojáře nejběžnějším způsobem, jak získat funkční kopii centrálního repozitáře.
+
+git pull - Pulling je automatizovaná verze příkazu git fetch. Stahuje větev ze vzdáleného repozitáře a poté ji okamžitě sloučí s aktuální větví. Toto je ekvivalent funkce svn update v Gitu.
+
+git push - Odesílání (pushing) je opakem načítání (fetching) (s několika výhradami). Umožňuje přesunout lokální větev do jiného repozitáře, což slouží jako pohodlný způsob publikování příspěvků. Je to podobné jako svn commit, ale odesílá sérii commits místo jedné sady změn (changeset).
